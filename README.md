@@ -1,0 +1,2 @@
+# premium-spindle-bore-001-spindle-bore-measure-bar-sto
+Tired of guessing spindle bore diameters and losing track of bar stock dimensions mid-project? This Notion template turns chaos into precision.  The Spindle Bore Measure &amp; Bar Stock Craft Hub solves the maddening problem of inconsistent bore measurements and scattered stock data. It centralizes all your spindle specs and material inventory in one d
